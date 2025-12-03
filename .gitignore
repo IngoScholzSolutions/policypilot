@@ -1,4 +1,26 @@
-/.env
-/.venv
-/logger.log
-/__pycache__
+# Environments
+.env
+.venv/
+venv/
+ENV/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.sqlite3
+
+# Logs
+*.log
+logger.log
+
+# IDEs
+.vscode/
+.idea/
+
+# Distribution / Packaging
+dist/
+build/
+*.egg-info/
