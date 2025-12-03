@@ -79,7 +79,7 @@ Financial advice requires accuracy. To prevent the LLM from "hallucinating" numb
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/your-username/pension-unlock.git](https://github.com/your-username/pension-unlock.git)
+    git clone [https://github.com/IngoScholzSolutions/pension-unlock.git](https://github.com/IngoScholzSolutions/pension-unlock.git)
     cd pension-unlock
     ```
 2.  **Install Dependencies:**
@@ -91,7 +91,7 @@ Financial advice requires accuracy. To prevent the LLM from "hallucinating" numb
     # Create a .env file or export directly
     export GOOGLE_API_KEY="your_gemini_key"
     ```
-4.  **Run the Agent (Local Web Interface):**
+4.  **Run the Agent (Local Web Interface in debugging mode):**
     ```bash
     adk web --log_level DEBUG
     ```
