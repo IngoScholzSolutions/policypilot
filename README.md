@@ -79,8 +79,8 @@ Financial advice requires accuracy. To prevent the LLM from "hallucinating" numb
 
 1.  **Clone the Repo:**
     ```bash
-    git clone [https://github.com/IngoScholzSolutions/pension-unlock.git](https://github.com/IngoScholzSolutions/pension-unlock.git)
-    cd pension-unlock
+    git clone https://github.com/IngoScholzSolutions/policypilot.git
+    cd policypilot
     ```
 2.  **Install Dependencies:**
     ```bash
